@@ -1,0 +1,27 @@
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* background: rgb(0,0,0);
+    background: linear-gradient(180deg, rgba(0,0,0,0.9783263647255778) 0%, rgba(0,0,0,0.5497549361541492) 54%, rgba(0,0,0,0.08476894175639005) 100%); */
+    background: rgb(0,0,0);
+background: linear-gradient(180deg, rgba(0,0,0,0.9783263647255778) 0%, rgba(0,0,0,0.5497549361541492) 100%, rgba(0,0,0,0.08476894175639005) 100%);
+
+}
+
+.logo {
+    position: fixed;
+    left: 40px;
+    width: 100px;
+
+}
+
+.avatar {
+    position: fixed;
+    right: 100px;
+    width: 25px;
+}
